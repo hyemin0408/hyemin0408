@@ -1,16 +1,40 @@
-### Hi there 👋
+<div align="left">
 
-<!--
-**hyemin0408/hyemin0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 😊 Welcome to my GitHub profile
 
-Here are some ideas to get you started:
+## Let me introduce myself.
+동양미래대학교 인공지능소프트웨어 학과에 재학중인 20살 지혜민입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My Email
+📫 jhm54433@naver.com
+
+---
+
+### 🌐 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://Instagram.com/bread_soon_)
+
+---
+
+## Hobbies
+1) 🍞 **베이킹 하기**
+2) 🎞️ **영화 보기**
+3) 🎧 **노래 들으면서 산책하기**
+
+---
+
+## Currently Learning
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
+![DataBase](https://img.shields.io/badge/DataBase-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
+
+---
+
+### :octocat: GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemin0408&theme=algolia&show_icons=true)
+
+</div>
