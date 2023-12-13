@@ -1,4 +1,4 @@
-<div align="left">
+'<div align="left">
 
 # 😊Welcome to my GitHub profile!😊
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Currently Learning
+## 📚Currently Learning
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-### :octocat: GitHub Stats
+### :🐈‍⬛: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemin0408&theme=algolia&show_icons=true)
 
 </div>
