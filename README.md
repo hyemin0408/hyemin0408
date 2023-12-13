@@ -2,13 +2,13 @@
 
 # 😊Welcome to my GitHub profile!😊
 
-## Let me introduce myself.
+## ❤️Let me introduce myself.
 동양미래대학교 인공지능소프트웨어 학과에 재학중인 20살 지혜민입니다.
 
 ---
 
-## My Email
-📫 jhm54433@naver.com
+## 📫My Email
+- jhm54433@naver.com
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Hobbies
+## 🎶Hobbies
 1) 🍞 **베이킹 하기**
 2) 🎞️ **영화 보기**
 3) 🎧 **노래 들으면서 산책하기**
@@ -34,7 +34,7 @@
 
 ---
 
-### :🐈‍⬛: GitHub Stats
+### 🐈‍⬛: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemin0408&theme=algolia&show_icons=true)
 
 </div>
