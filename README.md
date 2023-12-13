@@ -2,12 +2,12 @@
 
 # 😊Welcome to my GitHub profile!😊
 
-## ❤️Let me introduce myself.
+## ❤ Let me introduce myself.
 동양미래대학교 인공지능소프트웨어 학과에 재학중인 20살 지혜민입니다.
 
 ---
 
-## 📫My Email
+## 📫 My Email
 - jhm54433@naver.com
 
 ---
@@ -17,14 +17,14 @@
 
 ---
 
-## 🎶Hobbies
-1) 🍞 **베이킹 하기**
-2) 🎞️ **영화 보기**
-3) 🎧 **노래 들으면서 산책하기**
+## 🎶 Hobbies
+- 🍞 **베이킹 하기**
+- 🎞️ **영화 보기**
+- 🎧 **노래 들으면서 산책하기**
 
 ---
 
-## 📚Currently Learning
+## 📚 Currently Learning
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=YourTechLogo&logoColor=white)
