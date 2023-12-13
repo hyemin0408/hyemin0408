@@ -1,6 +1,6 @@
 <div align="left">
 
-# 😊 Welcome to my GitHub profile
+# 😊Welcome to my GitHub profile!-!😊
 
 ## Let me introduce myself.
 동양미래대학교 인공지능소프트웨어 학과에 재학중인 20살 지혜민입니다.
